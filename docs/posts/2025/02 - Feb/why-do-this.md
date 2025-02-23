@@ -1,10 +1,13 @@
 ---
 date: 2025-02-23
+draft: true
 ---
 
 # Why Do This
 
-For me, mostly. This blog exists for me. Not for anyone else, just for Kaden. Kaden's Blog.
+Oh, right. The blog... The blog for Kaden. The blog chosen specifically to help Kaden. Kaden's blog.
+
+This blog exists for me.
 
 When I was younger I collected YuGiOh cards. I was *obsessed* with the show, and collected the cards like I was a squirrel collecting acorns during those years where Oak trees over-produce acorns and it tricks the squirrels into hiding so many acorns they forget about a lot of them, and then the squirrel population booms because those squirrels were like "fuck yeah, look at all these acorns we got, this winter's gonna be fucking awesome" but then the next year the Oak trees are like "oh, you thought I'd do that *every* year? Yeah, no that was so I could make more saplings. idgaf about your kids, hope they have fun starving to death this year" and then just stand idly by while a bunch of squirrel babies die.
 
